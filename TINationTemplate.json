@@ -1,0 +1,51 @@
+[
+ {
+   "friendlyName": "United States of America",
+   "dataName": "USA",
+   "flagResource": "nationflags/United_States",
+   "unionFlagResource": "ueclogo/UEC",
+   "unionTrigger": 14,
+   "multiplier": 1.5,
+   "color32": {
+      "r": 8,
+      "g": 60,
+      "b": 124
+   },
+   "color": {
+      "r": 0.05,
+      "g": 0.35,
+      "b": 0.73,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": 22305188400000,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": 3,
+   "unrest": 3,
+   "inequality": 1.15,
+   "democracy": 8.85,
+   "education": 9,
+   "spaceFunding_year": 1000,
+   "miltech": 4.5,
+   "nuclearWeapons": 28,
+   "initSpaceIPs": 50,
+   "nuclearProgramIPs": 80,
+   "buildNukeIPs": 0,
+   "buildArmyIPs": 20,
+   "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Libertarian",
+      "Reactionary",
+      "Digitalization",
+      "Centrist",
+      "Centrist",
+      "Liberal"
+   ],
+   "ISOCodes": [
+      "USA",
+      "PRI",
+      ""
+   ]
+ }
+]
